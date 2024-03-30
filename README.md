@@ -19,7 +19,7 @@ git clone https://github.com/roelvandersteen/rsa-public-key-extractor.git
 2. Navigate to the project directory:
 
 ```bash
-cd rsa-public-key-extractor
+cd rsa-public-key-extractor/src/PublicKeyExtractor
 ```
 
 3. Build the project:
